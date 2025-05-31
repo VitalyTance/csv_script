@@ -1,0 +1,9 @@
+__pycache__
+/csv-script/data1.csv
+/csv-script/data2.csv
+/csv-script/data3.csv
+/csv-script/flake8.exe
+/csv-script/pytest.exe
+.pytest-cache/
+/csv-script/.idea/
+/csv-script/.pytest-cache/
